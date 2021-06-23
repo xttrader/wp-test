@@ -10,6 +10,7 @@
  */
 
 // This theme requires WordPress 5.3 or later.
+//Introducing just some sample changes for the sake of testing stuff. 
 if ( version_compare( $GLOBALS['wp_version'], '5.3', '<' ) ) {
 	require get_template_directory() . '/inc/back-compat.php';
 }
